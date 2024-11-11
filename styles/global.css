@@ -27,7 +27,6 @@ body {
 a {
     text-decoration: none;
     color: inherit;
-    transition: 1s;
 }
 a:hover {
     color: var(--brand-color-light);
@@ -47,6 +46,7 @@ img {
 }
 main {
     margin-top: 40px;
+    gap: 80px;
 }
 /* utility first */
 .content-tag {
