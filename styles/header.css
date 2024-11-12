@@ -20,4 +20,5 @@
     border: solid 1px var(--strocke-color);
     border-inline: none;
     justify-content: space-between;
+    color: var(--text-color-secundary);
 }
